@@ -18,6 +18,9 @@
 
 ## Projects
 ### SQL For Data Cleaning
+- Purpose: I focused on identifying and rectifying errors or inconsistencies in the dataset. The objective is to ensure the data is accurate, complete, and free from errors.
+- Activities: Handling missing values, correcting inaccuracies, addressing outliers, and standardizing formats. It's about making the data suitable for analysis by removing noise and anomalies.
+- Tools: SQL.
 [View Project](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING)
 
  
