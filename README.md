@@ -28,8 +28,8 @@
 - Purpose: I focused on identifying and rectifying errors or inconsistencies in the dataset. The objective is to ensure the data is accurate, complete, and free from errors.
 - Activities: Handling missing values, correcting inaccuracies, addressing outliers, and standardizing formats. It's about making the data suitable for analysis by removing noise and anomalies.
 - Tools: ![SQL](assets/image/SQL.jpg)
-[View Project](https://1drv.ms/x/c/39910e63a33a86fb/ETstoa0b8QJFhOD9pkeeeKwBXJG49VebFB_bsRmGVCejWA?e=QDzzYJ)https://1drv.ms/x/c/39910e63a33a86fb/ETstoa0b8QJFhOD9pkeeeKwBXJG49VebFB_bsRmGVCejWA?e=QDzzYJ)
-  [Download Here](https://1drv.ms/x/c/39910e63a33a86fb/ETstoa0b8QJFhOD9pkeeeKwBXJG49VebFB_bsRmGVCejWA?e=QDzzYJ)https://1drv.ms/x/c/39910e63a33a86fb/ETstoa0b8QJFhOD9pkeeeKwBXJG49VebFB_bsRmGVCejWA?e=QDzzYJ)
+[View Project](Excel Project Dataset.xlsx)
+  [Download Here](https://github.com/Arinzeluke/Excel-for-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
 
 
  
