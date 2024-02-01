@@ -18,11 +18,13 @@
 
 ## Projects
 ### SQL For Data Cleaning
-![SQL](assets/image/SQL.jpg)
+![SQL](assets/image/SQL.jpg)       ![Tableau](assets/image/tableau.jpg)
 - Purpose: I focused on identifying and rectifying errors or inconsistencies in the dataset. The objective is to ensure the data is accurate, complete, and free from errors.
 - Activities: Handling missing values, correcting inaccuracies, addressing outliers, and standardizing formats. It's about making the data suitable for analysis by removing noise and anomalies.
-- Tools: 
-[View Project](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING)
+- Tools:
+
+[View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/PropertiesSoldAtTNState/Dashboard1)
+[Download](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING)
 
 
 ### Bike Purchase Analysis
