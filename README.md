@@ -50,11 +50,10 @@ Identify and handle any duplicate entries.Verify the data types of each column a
   1. Data cleaning skill with Excel [Download here ](https://github.com/Arinzeluke/Excel-for-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
   2. Data analysis skill with Tableau
   3. Data visualization (dashboard) skill with Tableau [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/BikePurchaseSummary/Dashboard1?publish=yes)
+
+  - **Observation and Recommendations:** I noticed that individuals with a commute distance of 0-1 mile tend to purchase bikes more than those with a commute distance of 10 miles or more. Adults are more likely to buy bikes than young people, especially those in professional and skilled manual occupations. People with incomes ranging from $50K to $100K purchase bikes more frequently than those with incomes between $101K and $170K. In terms of education, individuals with bachelor's degrees purchase bikes more often, followed by those with some college education. These observations are general trends, and further filtering can provide more detailed insights. I recommend ase on my observations
+
   
-[View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/BikePurchaseSummary/Dashboard1?publish=yes)
-
-Navigate through the slicer,  [Download Here](https://github.com/Arinzeluke/Excel-for-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
-
 ### Balaji Food Sales 
 ![Excel](assets/image/Exce.jpg)
 - Objective: The objective is to ensure the data is accurate, complete, and free from errors and communicate insights and patterns visually
