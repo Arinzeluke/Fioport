@@ -14,7 +14,14 @@
 - Develop dashboards and reports to visualize performance metrics for easy interpretation by stakeholders.
 
 **Lecturer II @ the Department of Mathematical Sciences, Federal University Lokoja (FUL), Nigeria ( Oct 2019 – Till Date)**
-- Courses Taught -: MTH 703: Real Analysis, MTH 443: Functional Analysis, MTH 101: Set and Number System, MTH 102: Algebra, MTH105: Differential and Integral Calculus, MTH 223: Set, Logic and Algebra,and  MTH 222: Elementary Differential Equation.
+- Courses Taught -:
+         - MTH 703: Real Analysis
+         - MTH 443: Functional Analysis
+         - MTH 101: Set and Number System
+         - MTH 102: Algebra
+         - MTH105: Differential and Integral Calculus
+         - MTH 223: Set, Logic and Algebra
+         - MTH 222: Elementary Differential Equation.
 
 **Statistics Teacher:Elect’s Academy A-level Centre Agbawo Express Ibadan, Oyo State  (Feb 2016 – 2017)**
 - Taught A Level Mathematics
@@ -31,11 +38,6 @@
   2. Data analysis skill with Tableau
   3. Data visualization (dashboard) skill with Tableau [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/PropertiesSoldAtTNState/Dashboard1)
 - **Observation and Recommendation:** I have observed that Nashville is a thriving city in the real estate market. Single-family houses are currently trending, followed by duplexes. This conclusion is drawn from the fact that the majority of acreage is utilized for single-family houses more than any other type. It is surprising that houses built in the year 1930 command higher sales prices. Additionally, I noticed that the peak sales month is June, closely followed by May. In terms of sales years, 2016 takes the lead, followed by 2015. Based on this analysis, I recommend that real estate investors, developers, or policymakers take a closer look at these observations for strategic insights and decision-making.
-
-
-
-
-
 
 ### Bike Purchase Analysis
 - **TOOLS:**
