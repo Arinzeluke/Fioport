@@ -55,13 +55,16 @@ Identify and handle any duplicate entries.Verify the data types of each column a
 
   
 ### Balaji Food Sales 
-![Excel](assets/image/Exce.jpg)
-- Objective: The objective is to ensure the data is accurate, complete, and free from errors and communicate insights and patterns visually
-- Activities: Check for missing values in each column and decide on an appropriate strategy.
-Identify and handle any duplicate entries.Verify the data types of each column and convert them if needed. Check for outliers in numerical columns and decide on appropriate actions (remove, transform, etc.). Address any inconsistencies or errors in categorical variables. Create visualizations tailored to answer specific business questions. Visualize the distribution of income, food, and other relevant variables.
-- Tools: Excel
-  
-[View Project](https://1drv.ms/x/c/39910e63a33a86fb/EfticvSak0JIiqC7ut2tzYoBdi0bTqEFom6AJgkWjwQK0g?e=FVPTrt)
+- **TOOLS:**
+    ![Excel](assets/image/Exce.jpg)
+- **Purpose:** The purpose of analyzing this dataset is to gain insights into the food sales operations. The analysis aims to understand patterns, trends, and important metrics related to the types of food sold, sales transactions, and the performance of the business. This information can be used to optimize inventory management, improve sales strategies, and enhance overall business efficiency.
+ - **Skills Used in the Project:**
+  1. Data cleaning skill with Excel [Download here ](https://github.com/Arinzeluke/Balaji-Food-Sales/blob/main/Balaji%20Fast%20Food%20Sales.xlsx)
+  2. Data analysis skill with Excel
+  3. Data visualization (dashboard) skill with Excel [View Project](https://1drv.ms/x/c/39910e63a33a86fb/EfticvSak0JIiqC7ut2tzYoBdi0bTqEFom6AJgkWjwQK0g?e=FVPTrt)
 
-Navigate through the slicer,  [Download Here](https://github.com/Arinzeluke/Balaji-Food-Sales/blob/main/Balaji%20Fast%20Food%20Sales.xlsx)
- 
+ - **Observation and Recommendation:** I observed that Balaji's sales performance is highest on Sunday, followed by Monday. In terms of monthly sales performance, January takes the lead, followed by October and May, indicating major seasonal trends. Looking at the food types, fast food has the upper hand over beverages. The best-performing product is the Sandwich, which belongs to the fast-food category in terms of revenue generation. Finally, most transactions are done online. I recommend that Balaji should be aware of this trend.
+
+
+
+
