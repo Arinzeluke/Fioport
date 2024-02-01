@@ -30,7 +30,7 @@
   1. Data cleaning skill with SQL [Download here ](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING/blob/main/SQL-Data%20cleaning%20Portfolio.sql)
   2. Data analysis skill with Tableau
   3. Data visualization (dashboard) skill with Tableau [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/PropertiesSoldAtTNState/Dashboard1)
-- **Observation and Recommendations:** I have observed that Nashville is a thriving city in the real estate market. Single-family houses are currently trending, followed by duplexes. This conclusion is drawn from the fact that the majority of acreage is utilized for single-family houses more than any other type. It is surprising that houses built in the year 1930 command higher sales prices. Additionally, I noticed that the peak sales month is June, closely followed by May. In terms of sales years, 2016 takes the lead, followed by 2015. Based on this analysis, I recommend that real estate investors, developers, or policymakers take a closer look at these observations for strategic insights and decision-making.
+- **Observation and Recommendation:** I have observed that Nashville is a thriving city in the real estate market. Single-family houses are currently trending, followed by duplexes. This conclusion is drawn from the fact that the majority of acreage is utilized for single-family houses more than any other type. It is surprising that houses built in the year 1930 command higher sales prices. Additionally, I noticed that the peak sales month is June, closely followed by May. In terms of sales years, 2016 takes the lead, followed by 2015. Based on this analysis, I recommend that real estate investors, developers, or policymakers take a closer look at these observations for strategic insights and decision-making.
 
 
 
@@ -41,17 +41,17 @@
 - **TOOLS:**
   
    ![Excel](assets/image/Exce.jpg)       ![Tableau](assets/image/tableau.jpg)
-   - **Purpose:** The purpose of analyzing this dataset is to understand the characteristics and behaviors of individuals in relation to bike purchases. It aims to identify patterns, trends, and insights that can inform marketing strategies, improve targeting, and enhance decision-making for businesses involved in selling bikes.
+- **Purpose:** The purpose of analyzing this dataset is to understand the characteristics and behaviors of individuals in relation to bike purchases. It aims to identify patterns, trends, and insights that can inform marketing strategies, improve targeting, and enhance decision-making for businesses involved in selling bikes.
 
   - **Activities:** Check for missing values in each column and decide on an appropriate strategy.
 Identify and handle any duplicate entries.Verify the data types of each column and convert them if needed. Check for outliers in numerical columns and decide on appropriate actions (remove, transform, etc.). Address any inconsistencies or errors in categorical variables.Created age bracket (Age < 29= "Young people",30-49="Adult" and 50 and above= "Old people") and income bracket(10K-49k,50k-100k,101k-170k). Create visualizations tailored to answer specific business questions. Visualize the distribution of income, age, and other relevant variables.
 
-- **Skills Used in the Project:**
+  - **Skills Used in the Project:**
   1. Data cleaning skill with Excel [Download here ](https://github.com/Arinzeluke/Excel-for-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
   2. Data analysis skill with Tableau
   3. Data visualization (dashboard) skill with Tableau [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/BikePurchaseSummary/Dashboard1?publish=yes)
 
-- **Observation and Recommendations:** I noticed that individuals with a commute distance of 0-1 mile tend to purchase bikes more than those with a commute distance of 10 miles or more. Adults are more likely to buy bikes than young people, especially those in professional and skilled manual occupations. People with incomes ranging from $50K to $100K purchase bikes more frequently than those with incomes between $101K and $170K. In terms of education, individuals with bachelor's degrees purchase bikes more often, followed by those with some college education. These observations are general trends, and further filtering can provide more detailed insights. I recommend ase on my observations
+- **Observation and Recommendation:** I noticed that individuals with a commute distance of 0-1 mile tend to purchase bikes more than those with a commute distance of 10 miles or more. Adults are more likely to buy bikes than young people, especially those in professional and skilled manual occupations. People with incomes ranging from $50K to $100K purchase bikes more frequently than those with incomes between $101K and $170K. In terms of education, individuals with bachelor's degrees purchase bikes more often, followed by those with some college education. These observations are general trends, and further filtering can provide more detailed insights. I recommend ase on my observations
 
   
 ### Balaji Food Sales 
