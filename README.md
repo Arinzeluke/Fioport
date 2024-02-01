@@ -68,6 +68,26 @@ Identify and handle any duplicate entries.Verify the data types of each column a
 
  - **Observation and Recommendation:** I observed that Balaji's sales performance is highest on Sunday, followed by Monday. In terms of monthly sales performance, January takes the lead, followed by October and May, indicating major seasonal trends. Looking at the food types, fast food has the upper hand over beverages. The best-performing product is the Sandwich, which belongs to the fast-food category in terms of revenue generation. Finally, most transactions are done online. I recommend that Balaji should be aware of this trend.
 
+  
+##Membership of Professional Bodies and Societies
+- Mathematical Association of Nigeria (MAN)
+- Nigerian Mathematical Society (NMS)
+- Nigeria Society for Mathematical Biology (NSMB)
 
+## Publications
+- Optimal Nipah virus (NiV) spread control dynamics
+Arinze Luke Ozioko, Remigius Okeke Aja, Sunday Emmanuel Fadugba, Kekana Malesela, Godwin
+Christopher E. Mbah, Math. Biol. Neurosci., 2023 (2023), Article ID 76
+- The dynamics of Nipah Virus ( NiV) transmission and analysis
+Ozioko A. L ., Aja R.O, Abang S.I.S.,Atokolo W.,Ahman Q.O., Mbah G.C.E, J Math Comput SCI-JM
+( 2023)31(4): 367-391
+- Application of quadratic Lyapunov function for SIR model with demography
+A.L. Ozioko, I.S.S. Abang ,G.C.E. Mbah, and M.O. Omeike,International Journal of Mathematical
+Analysis and Modelling Volume 5, Issue 2, September 2022, pages 1 - 9
+- Sensitivity analysis of Nipah virus Malaysian variant (NiVm) with transmission dynamics
+S. I. S. Abang, A. L. Ozioko, O. N. Nze, G. C. E. Mbah, and C. T. Onyia,International Journal of
+Mathematical Analysis and Modelling Volume 5, Issue 1, May 2022, Pages 100 – 120
+- A Study of Lyapunov Stability Analysis of Some Third Order Non-linear OrdinaryDifferential Equation
+Ozioko, Luke Arinze, & Omeike, Mathew. O,Abacus (Mathematics Science Series),(2021) 48(2
 
 
