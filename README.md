@@ -8,14 +8,15 @@
 - BS.c, Mathematics | University of Nigeria, Nsukka (June 2013)
 
 ## Work Experience
-** **Data Analyst @ Currency Photo Colour Lab (Dec 2018-Nov 2020)
+**Data Analyst @ Currency Photo Colour Lab (Dec 2018-Nov 2020)**
 - Collect and consolidate data from various sources within the lab, including digital imaging equipment, software systems, and databases.
 - Define and track key performance indicators (KPIs) related to photo production efficiency, quality, and turnaround times.
 - Develop dashboards and reports to visualize performance metrics for easy interpretation by stakeholders.
-- 
-** **Lecturer II @ the Department of Mathematical Sciences, Federal University Lokoja (FUL), Nigeria ( Oct 2019 – Till Date)
+
+**Lecturer II @ the Department of Mathematical Sciences, Federal University Lokoja (FUL), Nigeria ( Oct 2019 – Till Date)**
 - Courses Taught -: MTH 703: Real Analysis, MTH 443: Functional Analysis, MTH 101: Set and Number System, MTH 102: Algebra, MTH105: Differential and Integral Calculus, MTH 223: Set, Logic and Algebra,and  MTH 222: Elementary Differential Equation.
-** Statistics Teacher:Elect’s Academy A-level Centre Agbawo Express Ibadan, Oyo State  (Feb 2016 – 2017)
+- 
+** Statistics Teacher:Elect’s Academy A-level Centre Agbawo Express Ibadan, Oyo State  (Feb 2016 – 2017)**
 - Taught A Level Mathematics
 ## Projects
 ### Properties Vendor
