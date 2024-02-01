@@ -18,7 +18,9 @@
 
 ## Projects
 ### SQL For Data Cleaning
-- TOOLS: ![SQL](assets/image/SQL.jpg)       ![Tableau](assets/image/tableau.jpg)
+- TOOLS:
+  
+   ![SQL](assets/image/SQL.jpg)       ![Tableau](assets/image/tableau.jpg)
 - Purpose: I focused on identifying and rectifying errors or inconsistencies in the dataset. The objective is to ensure the data is accurate, complete, and free from errors.
 - Activities: Handling missing values, correcting inaccuracies, addressing outliers, and standardizing formats. It's about making the data suitable for analysis by removing noise and anomalies.
 
