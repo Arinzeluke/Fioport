@@ -14,7 +14,8 @@
 - Develop dashboards and reports to visualize performance metrics for easy interpretation by stakeholders.
 
 **Lecturer II @ the Department of Mathematical Sciences, Federal University Lokoja (FUL), Nigeria ( Oct 2019 – Till Date)**
-- Courses Taught -:
+- Courses Taught:
+  
          - MTH 703: Real Analysis
          - MTH 443: Functional Analysis
          - MTH 101: Set and Number System
