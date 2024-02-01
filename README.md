@@ -38,13 +38,18 @@
 
 
 ### Bike Purchase Analysis
-- TOOLS:
+- **TOOLS:**
   
    ![Excel](assets/image/Exce.jpg)       ![Tableau](assets/image/tableau.jpg)
-- Objective: The objective is to ensure the data is accurate, complete, and free from errors and communicate insights and patterns visually
-- Activities: Check for missing values in each column and decide on an appropriate strategy.
-Identify and handle any duplicate entries.Verify the data types of each column and convert them if needed. Check for outliers in numerical columns and decide on appropriate actions (remove, transform, etc.). Address any inconsistencies or errors in categorical variables.Created age bracket (Age < 29= "Young people",30-49="Adult and 50 and above= Old people)and income bracket(10K-49k,50k-100k,101k-170k). Create visualizations tailored to answer specific business questions. Visualize the distribution of income, age, and other relevant variables.
-- Tools: Excel
+   - **Purpose:** The purpose of analyzing this dataset is to understand the characteristics and behaviors of individuals in relation to bike purchases. It aims to identify patterns, trends, and insights that can inform marketing strategies, improve targeting, and enhance decision-making for businesses involved in selling bikes.
+
+  - **Activities:** Check for missing values in each column and decide on an appropriate strategy.
+Identify and handle any duplicate entries.Verify the data types of each column and convert them if needed. Check for outliers in numerical columns and decide on appropriate actions (remove, transform, etc.). Address any inconsistencies or errors in categorical variables.Created age bracket (Age < 29= "Young people",30-49="Adult" and 50 and above= "Old people") and income bracket(10K-49k,50k-100k,101k-170k). Create visualizations tailored to answer specific business questions. Visualize the distribution of income, age, and other relevant variables.
+
+- **Skills Used in the Project:**
+  1. Data cleaning skill with Excel [Download here ](https://github.com/Arinzeluke/Excel-for-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx)
+  2. Data analysis skill with Tableau
+  3. Data visualization (dashboard) skill with Tableau [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/BikePurchaseSummary/Dashboard1?publish=yes)
   
 [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/BikePurchaseSummary/Dashboard1?publish=yes)
 
