@@ -68,7 +68,7 @@ Identify and handle any duplicate entries.Verify the data types of each column a
 
  - **Observation and Recommendation:** I observed that Balaji's sales performance is highest on Sunday, followed by Monday. In terms of monthly sales performance, January takes the lead, followed by October and May, indicating major seasonal trends. Looking at the food types, fast food has the upper hand over beverages. The best-performing product is the Sandwich, which belongs to the fast-food category in terms of revenue generation. Finally, most transactions are done online. I recommend that Balaji should be aware of this trend.
 
-##Membership of Professional Bodies and Societies
+## Membership of Professional Bodies and Societies
 - Mathematical Association of Nigeria (MAN)
 - Nigerian Mathematical Society (NMS)
 - Nigeria Society for Mathematical Biology (NSMB)
