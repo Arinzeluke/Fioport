@@ -26,7 +26,7 @@
 [View Project](https://public.tableau.com/app/profile/arinze.luke.ozioko/viz/PropertiesSoldAtTNState/Dashboard1)
 
 
-[](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING)
+[Download](https://github.com/Arinzeluke/SQL-FOR-DATA-CLEANING)
 
 
 ### Bike Purchase Analysis
